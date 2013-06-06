@@ -1,0 +1,12 @@
+Hello, World!
+
+This is my first Git project and my first OUYA project, so know going in that it's going to be a clumsy ride.
+
+ouya-controls-demo is intended to be a brief little OUYA app that displays output corresponding precisely to user input.
+
+The intent is that you can pick up the controller, start the app, and find out exactly how the OUYA interprets your actions.
+
+This is meant for use by developers who want to know exactly how responsive the controller is before they start designing their own input framework.
+
+-Chris T
+chris.tamorith@gmail.com
